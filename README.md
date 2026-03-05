@@ -46,7 +46,7 @@
 ### 📊 GitHub Engineering Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neravex-ides&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="neravex-ides's GitHub stats" width="48%" />
+  <img src="https://stats.justsong.cn/api?username=neravex-ides&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="neravex-ides's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neravex-ides&theme=tokyonight&hide_border=true&background=0D1117" alt="neravex-ides's Streak" width="48%" />
 </div>
 
